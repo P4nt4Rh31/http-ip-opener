@@ -21,6 +21,7 @@ Ingresar el Puerto TCP
 Script created by Arturo Correa 'P4nth4_R31'
 
 ============================================================================================================
+
 This project consists of a Python script designed to automate the opening of multiple IP addresses in a web browser using a user-specified port. This tool is particularly useful in the context of penetration testing (pentesting), where it is necessary to quickly verify the reachability and response of multiple IP addresses through different ports. The script uses tkinter to provide a graphical user interface (GUI) and webbrowser to open the URLs in the default browser.
 
 Characteristics
